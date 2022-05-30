@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: splash
-title: "3 minutes band"
+title: "3 minutes band | 三分钟乐队"
 permalink: /
 header:
   overlay_color: "#000"
@@ -12,7 +12,6 @@ header:
   actions:
     - label: "Upcoming Events"
       url: "#upcoming-events"
-  caption: "photo credit: Stella Chen"
 intro:
     - excerpt: "A pop rock band based in San Francisco, Bay Area."
 gallery:
@@ -75,8 +74,6 @@ Address: [1699-1659 Southgate Ave, Daly City, CA 94015](https://www.google.com/m
 {% include feature_row id="gallery" caption="This is the gallery caption" %}
 
 
-
-
 ### Gallery
 
 
@@ -100,7 +97,7 @@ Message us at [3mintuesband@Instagram](https://www.instagram.com/3minutesband/)
 
 ### Credits
 
-Credits to the following organization or people who have been supporting our bands. 
+Credits to the following friends who have been supporting our bands. 
 
 [湾区小码农](https://www.youtube.com/channel/UCxuQORF44M1BLFgdTNBYLBw), [Unitone Music Studio](https://www.unitonemusic.com/), Zongxian Li, Stella Chen
 

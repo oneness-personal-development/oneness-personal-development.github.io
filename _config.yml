@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 3 minutes band | Homepage
+title: 3 minutes band | 三分钟乐队
 email: 3minutesband2020@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A pop rock band based in San Francisco, Bay Area. 
+  A pop rock band based in San Francisco, Bay Area. 三分钟乐队
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://3minutesband.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
