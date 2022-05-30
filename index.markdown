@@ -100,5 +100,7 @@ Message us at [3mintuesband@Instagram](https://www.instagram.com/3minutesband/)
 
 ### Credits
 
-Credits to the following organization or people who helped our bands: [湾区小码农](https://www.youtube.com/channel/UCxuQORF44M1BLFgdTNBYLBw), [Unitone Music Studio](https://www.unitonemusic.com/), Zongxian Li, Stella Chen
+Credits to the following organization or people who have been supporting our bands. 
+
+[湾区小码农](https://www.youtube.com/channel/UCxuQORF44M1BLFgdTNBYLBw), [Unitone Music Studio](https://www.unitonemusic.com/), Zongxian Li, Stella Chen
 
