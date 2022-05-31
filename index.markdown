@@ -14,7 +14,7 @@ header:
       url: "#upcoming-events"
 intro:
     - excerpt: "A pop rock band based in San Francisco, Bay Area."
-gallery:
+members_gallery:
   - image_path: /assets/images/peipei.jpg
     url: /assets/images/peipei.jpg
     title: "佩佩"
@@ -55,47 +55,60 @@ gallery:
     url: /assets/images/erxiao.jpg
     title: "王二小"
     excerpt: "Guitar & Bass"
-    description: "王二小：被乐队排练耽误的滑雪队员"
+    description: "王二小：阿哈哈哈，你刚才说啥？"
+
+wall_of_fame_gallery:
+  - image_path: /assets/images/shawn.jpg
+    url: /assets/images/shawn.jpg
+    title: "Shawn"
+    excerpt: "Keyboard & Guitar"
+    description: "Shawn: 不想弹吉他的科研民工不是好键盘手"
+
+  - image_path: /assets/images/ryan.jpg
+    url: /assets/images/ryan.jpg
+    title: "Ryan"
+    excerpt: "Vocal & Bass"
+    description: "Ryan: 乐队里最好的厨子"
 
 ---
 
 {% include feature_row id="intro" type="center" %}
 ### Upcoming Events
 
-Time: 2022/09/24  10:00AM - 12:00PM
+#### Free Admission!
+
+Date: 2022/07/23 & 2022/09/24
+
+Time: 10:00AM - 12:00PM
 
 Location: Daly City Farmers Market
 
 Address: [1699-1659 Southgate Ave, Daly City, CA 94015](https://www.google.com/maps/place/Daly+City+Farmers'+Market+at+Serramonte+Center/@37.6736087,-122.4717038,17z/data=!3m1!4b1!4m5!3m4!1s0x808f7b8dbb2d1a77:0x63d8a4c3bdbd7dfc!8m2!3d37.6736087!4d-122.4695151)
 
 
-### Members
+## Members
 
-{% include feature_row id="gallery" caption="This is the gallery caption" %}
+{% include feature_row id="members_gallery" caption="Band current members" %}
 
 
-### Gallery
-
+## Gallery
 
 {% include video id="0FDqLxEupZc" provider="youtube" %}
 
 
-### Wall of Fame
+## Wall of Fame
 
-Ryan # bass/vocal
+{% include feature_row id="wall_of_fame_gallery" caption="wall of fame" %}
 
 Adam # drum
 
-Shawn # keyboard
+Time # Bass
 
-Tim # bass
+## Contact Us
 
+Message us at [3mintuesband @Instagram](https://www.instagram.com/3minutesband/)
 
-### Contact Us
-
-Message us at [3mintuesband@Instagram](https://www.instagram.com/3minutesband/)
-
-### Credits
+## Credits
 
 Credits to the following friends who have been supporting our bands. 
 
