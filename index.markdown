@@ -15,17 +15,17 @@ header:
 intro:
     - excerpt: "A pop rock band based in San Francisco, Bay Area."
 members_gallery:
-  - image_path: /assets/images/peipei.jpg
-    url: /assets/images/peipei.jpg
-    title: "佩佩"
-    excerpt: "Vocal & Bass"
-    description: "佩佩：唯一设计师"
-
   - image_path: /assets/images/tingyu.jpg
     url: /assets/images/tingyu.jpg
     title: "毛老师"
     excerpt: "Vocal & Keyboard"
     description: "毛老师："
+
+  - image_path: /assets/images/peipei.jpg
+    url: /assets/images/peipei.jpg
+    title: "佩佩"
+    excerpt: "Vocal & Bass"
+    description: "佩佩：唯一设计师"
 
   - image_path: /assets/images/zhesheng.jpg
     url: /assets/images/zhesheng.jpg
