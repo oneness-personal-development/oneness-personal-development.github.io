@@ -13,4 +13,3 @@ The site uses minimal-mistakes theme and is powered by Jekyll.
 
 
 TODO List
- - resize photos
