@@ -55,7 +55,7 @@ members_gallery:
     url: /assets/images/erxiao.jpg
     title: "王二小"
     excerpt: "Guitar & Bass"
-    description: "王二小：阿哈哈哈，你刚才说啥？"
+    description: "王二小：摸鱼吉他手王二小"
 
 wall_of_fame_gallery:
   - image_path: /assets/images/shawn.jpg
