@@ -64,6 +64,12 @@ wall_of_fame_gallery:
     excerpt: "Keyboard & Guitar"
     description: "Shawn: 不想弹吉他的科研民工不是好键盘手"
 
+  - image_path: /assets/images/tim.jpg
+    url: /assets/images/tim.jpg
+    title: "杰杰"
+    excerpt: "Bass"
+    description: "杰杰：常年在外面浪，于是乐队几乎全员学会了贝斯"
+
   - image_path: /assets/images/ryan.jpg
     url: /assets/images/ryan.jpg
     title: "Ryan"
@@ -102,7 +108,6 @@ Address: [1699-1659 Southgate Ave, Daly City, CA 94015](https://www.google.com/m
 
 Adam # drum
 
-Time # Bass
 
 ## Contact Us
 
