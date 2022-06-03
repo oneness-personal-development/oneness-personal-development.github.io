@@ -91,16 +91,13 @@ Location: Daly City Farmers Market
 
 Address: [1699-1659 Southgate Ave, Daly City, CA 94015](https://www.google.com/maps/place/Daly+City+Farmers'+Market+at+Serramonte+Center/@37.6736087,-122.4717038,17z/data=!3m1!4b1!4m5!3m4!1s0x808f7b8dbb2d1a77:0x63d8a4c3bdbd7dfc!8m2!3d37.6736087!4d-122.4695151)
 
+## Past Events
+
+{% include video id="0FDqLxEupZc" provider="youtube" %}
 
 ## Members
 
 {% include feature_row id="members_gallery" caption="Band current members" %}
-
-
-## Gallery
-
-{% include video id="0FDqLxEupZc" provider="youtube" %}
-
 
 ## Wall of Fame
 

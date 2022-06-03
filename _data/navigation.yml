@@ -1,10 +1,10 @@
 main:
   - title: "Events"
     url: "#upcoming-events"
+  - title: "Past Events"
+    url: "#past-events"
   - title: "Members"
     url: "#members"
-  - title: "Gallery"
-    url: "#gallery"
   - title: "Wall of Fame"
     url: "#wall-of-fame"
   - title: "Contact Us"
