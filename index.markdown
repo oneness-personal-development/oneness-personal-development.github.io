@@ -19,7 +19,7 @@ members_gallery:
     url: /assets/images/tingyu.jpg
     title: "毛老师"
     excerpt: "Vocal & Keyboard"
-    description: "毛老师："
+    description: "毛老师：学不会吉他我就不弹键盘了"
 
   - image_path: /assets/images/peipei.jpg
     url: /assets/images/peipei.jpg
