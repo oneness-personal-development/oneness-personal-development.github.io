@@ -13,7 +13,7 @@ header:
     - label: "Upcoming Events"
       url: "#upcoming-events"
 intro:
-    - excerpt: "A pop rock band based in San Francisco, Bay Area."
+    - excerpt: "A pop rock band based in San Jose, CA."
 members_gallery:
   - image_path: /assets/images/tingyu.jpg
     url: /assets/images/tingyu.jpg
@@ -81,15 +81,24 @@ wall_of_fame_gallery:
 {% include feature_row id="intro" type="center" %}
 ### Upcoming Events
 
-#### Free Admission!
-
-Date: 2022/07/23 & 2022/09/24
+Date: 2022/11/13
 
 Time: 10:00AM - 12:00PM
 
-Location: Daly City Farmers Market
+Location: Oakridge Farmers Market
 
-Address: [1699-1659 Southgate Ave, Daly City, CA 94015](https://www.google.com/maps/place/Daly+City+Farmers'+Market+at+Serramonte+Center/@37.6736087,-122.4717038,17z/data=!3m1!4b1!4m5!3m4!1s0x808f7b8dbb2d1a77:0x63d8a4c3bdbd7dfc!8m2!3d37.6736087!4d-122.4695151)
+Address: [Winfield Blvd. &, Thornwood Dr, San Jose, CA 95123](https://www.google.com/maps/place/Farmers'+Market+Westfield+Oakridge/@37.2922482,-122.1076981,11z/data=!4m5!3m4!1s0x808e33fce84e7887:0xaf02e576c4c85a1c!8m2!3d37.2540224!4d-121.8613765)
+
+
+---
+
+Date: 2022/12/10
+
+Time: Evening
+
+Location: [Unitone Music Studio, San Jose](https://www.google.com/maps/place/Unitone+Music+Studio/@37.2608039,-121.9372975,17z/data=!3m1!4b1!4m5!3m4!1s0x808e345b46b9b013:0x6d93025fb2ea2fb6!8m2!3d37.260804!4d-121.9328128)
+
+
 
 ## Past Events
 
@@ -112,7 +121,7 @@ Message us at [3mintuesband @Instagram](https://www.instagram.com/3minutesband/)
 
 ## Credits
 
-Credits to the following friends who have been supporting our bands. 
+Credits to following friends who have been supporting us. 
 
 [湾区小码农](https://www.youtube.com/channel/UCxuQORF44M1BLFgdTNBYLBw), [Unitone Music Studio](https://www.unitonemusic.com/), Zongxian Li, Stella Chen
 
