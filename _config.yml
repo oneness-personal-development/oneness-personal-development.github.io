@@ -40,8 +40,13 @@ minimal_mistakes_skin: "air"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+
 # Google Analytics
-google_analytics: "G-FQPY2M40E5"
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-FQPY2M40E5"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
