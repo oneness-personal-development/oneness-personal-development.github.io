@@ -81,23 +81,34 @@ wall_of_fame_gallery:
 {% include feature_row id="intro" type="center" %}
 ### Upcoming Events
 
-Date: 2022/11/13
+Date: 2022/12/10 Saturday
 
-Time: 10:00AM - 12:00PM
-
-Location: Oakridge Farmers Market
-
-Address: [Winfield Blvd. &, Thornwood Dr, San Jose, CA 95123](https://www.google.com/maps/place/Farmers'+Market+Westfield+Oakridge/@37.2922482,-122.1076981,11z/data=!4m5!3m4!1s0x808e33fce84e7887:0xaf02e576c4c85a1c!8m2!3d37.2540224!4d-121.8613765)
-
-
----
-
-Date: 2022/12/10
-
-Time: Evening
+Time: 6:30PM - 8:30PM
 
 Location: [Unitone Music Studio, San Jose](https://www.google.com/maps/place/Unitone+Music+Studio/@37.2608039,-121.9372975,17z/data=!3m1!4b1!4m5!3m4!1s0x808e345b46b9b013:0x6d93025fb2ea2fb6!8m2!3d37.260804!4d-121.9328128)
 
+Free Tickets: 
+
+<div id="eventbrite-widget-container-463444544107"></div>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '463444544107',
+        iframeContainerId: 'eventbrite-widget-container-463444544107',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
 
 
 ## Past Events
@@ -123,5 +134,5 @@ Message us at [3mintuesband @Instagram](https://www.instagram.com/3minutesband/)
 
 Credits to following friends who have been supporting us. 
 
-[湾区小码农](https://www.youtube.com/channel/UCxuQORF44M1BLFgdTNBYLBw), [Unitone Music Studio](https://www.unitonemusic.com/), Zongxian Li, Stella Chen
+[湾区小码农](https://www.youtube.com/channel/UCxuQORF44M1BLFgdTNBYLBw), [Maizesoft](https://www.maizesoft.com/cms/), [Unitone Music Studio](https://www.unitonemusic.com/), Zongxian Li, Stella Chen
 
