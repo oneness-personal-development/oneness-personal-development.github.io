@@ -79,47 +79,12 @@ wall_of_fame_gallery:
 ---
 
 {% include feature_row id="intro" type="center" %}
-### Upcoming Events
-
-Date: 2022/12/10 Saturday
-
-Time: 6:30PM - 8:30PM
-
-Location: [Unitone Music Studio, San Jose](https://www.google.com/maps/place/Unitone+Music+Studio/@37.2608039,-121.9372975,17z/data=!3m1!4b1!4m5!3m4!1s0x808e345b46b9b013:0x6d93025fb2ea2fb6!8m2!3d37.260804!4d-121.9328128)
-
-Free Tickets: 
-
-<div id="eventbrite-widget-container-463444544107"></div>
-
-<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
-
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-
-    window.EBWidgets.createWidget({
-        // Required
-        widgetType: 'checkout',
-        eventId: '463444544107',
-        iframeContainerId: 'eventbrite-widget-container-463444544107',
-
-        // Optional
-        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-    });
-</script>
-
----
-
-Youtube live: 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vCYzqH-o3qA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 ## Past Events
 
-{% include video id="0FDqLxEupZc" provider="youtube" %}
+2022/12/10 Unitone Music Studio / Unitone 
+
+{% include video id="H-PHug2S5V8" provider="youtube" %}
 
 ## Members
 
@@ -134,7 +99,7 @@ Adam # drum
 
 ## Contact Us
 
-Message us at [3mintuesband @Instagram](https://www.instagram.com/3minutesband/)
+Message us at [3minutesband @Instagram](https://www.instagram.com/3minutesband/)
 
 ## Credits
 
