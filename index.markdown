@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: splash
-title: "3 minutes band | 三分钟乐队"
+title: "Oneness Personal Development"
 permalink: /
 header:
   overlay_color: "#000"
@@ -13,7 +13,7 @@ header:
     - label: "Upcoming Events"
       url: "#upcoming-events"
 intro:
-    - excerpt: "A pop rock band based in San Jose, CA."
+    - excerpt: "Every individual is born to be creative, resourceful and whole"
 members_gallery:
   - image_path: /assets/images/tingyu.jpg
     url: /assets/images/tingyu.jpg
@@ -80,9 +80,9 @@ wall_of_fame_gallery:
 
 {% include feature_row id="intro" type="center" %}
 
-## Past Events
+## Upcoming events
 
-2022/12/10 Unitone Music Studio / Unitone 
+
 
 {% include video id="H-PHug2S5V8" provider="youtube" %}
 
