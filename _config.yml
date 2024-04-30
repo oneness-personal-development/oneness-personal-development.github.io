@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 3 minutes band | 三分钟乐队
-email: 3minutesband2020@gmail.com
+title: Oneness Personal Development
+email: songbo.sunny@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A pop rock band based in San Francisco, Bay Area. 三分钟乐队
+  Meet your best self. Embrase your full potential.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://3minutesband.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://onenesstgroup.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
-github_username:  3minutesband
+github_username:  oneness-personal-development
 locale: "en-US"
-repository: "3minutesband/3minutesband.github.io"
+repository: "oneness-personal-development/oneness-personal-development.github.io"
 timezone: America/Los_Angeles
 layout: single
 # Build settings
