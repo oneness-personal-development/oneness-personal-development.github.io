@@ -32,9 +32,9 @@ members_gallery:
     excerpt: "Vocal & Bass"
 
 event_gallery:
-  - image_path: /assets/images/event-1.jpg
+  - image_path: /assets/images/event-2.jpg
     alt: "event photos"
-  - image_path: /assets/images/event-2.png
+  - image_path: /assets/images/event-1.jpg
     alt: "event photos"
 application-link: https://docs.google.com/forms/d/e/1FAIpQLSeROxa0-Q42naWpytfOuP-aMKuOZcW_73PMAw2JE1TueOHQWg/viewform
 ---
@@ -129,5 +129,5 @@ You can also find our [W-9 form](https://www.cb-t.org/files/2019-W9.pdf) and [50
 
 ## Contact Us
 
-Bo can be reached out via email: [songbo.sunny@gmail.com](mailto:songbo.sunny@gmail.com)
+Happy to connect. Bo: [songbo.sunny@gmail.com](mailto:songbo.sunny@gmail.com)
 
