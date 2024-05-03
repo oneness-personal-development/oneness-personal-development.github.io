@@ -45,8 +45,10 @@ plugins:
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "G-FQPY2M40E5"
+    tracking_id: "G-9FN85BE033"
 
+collections:
+  authors:
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
