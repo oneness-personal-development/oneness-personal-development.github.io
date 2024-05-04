@@ -27,7 +27,11 @@ members_gallery:
     
   - image_path: 
     title: "Emily, Facilitator"
-    
+
+space_gallery:
+  - image_path: /assets/images/space.jpg
+    alt: "event space"
+
 event_gallery:
   - image_path: /assets/images/event-2.jpg
     alt: "event photos"
@@ -57,8 +61,7 @@ The practice you get during this course in building trusted relationships can be
 
 - You must be able to communicate effectively in **Mandarin**. T-Group会以中文进行。参与者需要能以普通话交流。
 
-- You must be able to attend the full two-day session.
-  - This is to maximize learning for you, and to minimize distraction for others.
+- You must be able to attend the full two-day session. This is to maximize learning for you, and to minimize distraction for others.
 
 **Schedule:** 
 
@@ -68,7 +71,7 @@ The practice you get during this course in building trusted relationships can be
 **Location:**  
 
 - In a private house in **Castro, San Francisco.**
-
+![image-center](/assets/images/space.jpg){: .align-center style="width: 50%;"}
 
 
 **Capacity:** 
