@@ -34,10 +34,6 @@ event_gallery:
   - image_path: /assets/images/event-1.jpg
     alt: "event photos"
 application-link: https://docs.google.com/forms/d/e/1FAIpQLSeROxa0-Q42naWpytfOuP-aMKuOZcW_73PMAw2JE1TueOHQWg/viewform
-
-sidebar:
-  - title: "Subscription"
-    nav: ./subscription
 ---
 
 
