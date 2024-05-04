@@ -21,16 +21,13 @@ members_gallery:
 
   - image_path: 
     title: "Andrew, Facilitator"
-    excerpt: "Vocal & Bass"
-
+    
   - image_path:
     title: "Emma, Facilitator"
-    excerpt: "Vocal & Bass"
-
+    
   - image_path: 
     title: "Emily, Facilitator"
-    excerpt: "Vocal & Bass"
-
+    
 event_gallery:
   - image_path: /assets/images/event-2.jpg
     alt: "event photos"
@@ -68,7 +65,7 @@ T-Group会以中文进行。参与者需要能以普通话交流。
 - 2024.6.2 SUN 9AM - 6PM
 
 **Location:**  
-![image-right](/assets/images/bo.jgp){: .align-right}
+
 - In a private house in Castro, San Francisco.
 
 
