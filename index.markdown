@@ -116,7 +116,7 @@ The practice you get during this course in building trusted relationships can be
 <div id="mc_embed_signup">
     <form action="https://onenesstgroup.us22.list-manage.com/subscribe/post?u=d9e33f29e17ac2d838337606f&amp;id=9ccce379ac&amp;f_id=0050c5e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self" novalidate="">
         <div id="mc_embed_signup_scroll"><h2>Subscribe to future events</h2>
-            <div class="mc-field-group"><label for="mce-EMAIL">Email Address</label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""></div>
+            <div class="mc-field-group"><label for="mce-EMAIL">Email Address</label><input type="email" name="EMAIL" class="email" id="mce-EMAIL" required="" value=""></div>
 <div hidden=""><input type="hidden" name="tags" value="4921"></div>
         <div id="mce-responses" class="clear foot">
             <div class="response" id="mce-error-response" style="display: none;"></div>
