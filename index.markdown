@@ -4,9 +4,10 @@
 
 layout: splash
 title: "Oneness T-Group"
-excerpt: "Connection, love and belonging"
 date: "2024-4-1"
 permalink: /
+tagline: "Connection, love and belonging"
+description: "A mandarin T-Group NPO proudly serving the San Francisco, Bay Area."
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
