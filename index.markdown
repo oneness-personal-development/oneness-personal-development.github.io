@@ -18,7 +18,7 @@ header:
 members_gallery:
   - image_path: /assets/images/bo.jpg
     title: "Bo, Founder & Facilitator"
-    excerpt: "Bo enjoys connection. He believes connection gives purpose and meaning to our lives. He also believes, and has demonstrated, that a T-Group consisting of twelve individuals can ultimately unite as one."
+    excerpt: "Bo enjoys connection. He believes connection gives purpose and meaning to our lives. He also believes, and has demonstrated, that twelve individuals in a T-Group can ultimately connect as one."
 
   - image_path: /assets/images/andrew.jpg
     title: "Andrew, Facilitator"
