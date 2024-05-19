@@ -21,7 +21,7 @@ members_gallery:
     excerpt: "Bo enjoys connection. He believes connection gives purpose and meaning to our lives. He also believes, and has demonstrated, that twelve individuals in a T-Group can ultimately connect as one."
 
   - image_path: /assets/images/andrew.jpg
-    title: "Andrew, Facilitator"
+    title: "Andrew, Founder & Facilitator"
     excerpt: "Andrew is a meditator, former startup operator, and recovering “highly logical person” who is on a journey to connect with his feelings, intuition, and most authentic self. There’s nothing he loves more than bringing people together and creating a sense of belonging. As a T-group facilitator, he aspires to guide participants in discovering and communicating their needs and boundaries, expressing themselves more freely and authentically, and letting the practice of becoming more closely attuned to ourselves become the foundation for true connection and belonging."
 
   - image_path: /assets/images/emma.jpg
