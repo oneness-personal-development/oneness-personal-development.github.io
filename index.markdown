@@ -81,7 +81,7 @@ The practice you get during this course in building trusted relationships can be
 - 12 students + 2 facilitators
 
 **Fee:** 
-- A $200 deposit is needed to secure your spot. (Vemno to *[t-group@](https://account.venmo.com/u/t-group)* )
+- A $200 deposit is needed to secure your spot. (Vemno to *[t-group@](https://account.venmo.com/u/t-group)* [QR code](/assets/images/venmo.jpg) )
 - The deposit will be refunded to participants who complete the whole session. 
 - Participants are welcomed to donate to Oneness after the class, up to the amount they are comfortable with. 
 
