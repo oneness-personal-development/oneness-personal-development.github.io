@@ -41,6 +41,7 @@ event_gallery:
   - image_path: /assets/images/event-1.jpg
     alt: "event photos"
 application-link: https://docs.google.com/forms/d/e/1FAIpQLSeROxa0-Q42naWpytfOuP-aMKuOZcW_73PMAw2JE1TueOHQWg/viewform
+info-email: info@onenesstgroup.com
 ---
 
 
@@ -53,7 +54,6 @@ During the session, you will receive a little bit of conceptual content and a lo
 The practice you get during this course in building trusted relationships can be applied with friends and family and at work.
 
 [^1]: T means training. [READ MORE about T-Group](./assets/files/power-of-t-group.pdf)
-
 
 
 ## Upcoming Events
@@ -86,8 +86,7 @@ The practice you get during this course in building trusted relationships can be
 - Participants are welcomed to donate to Oneness after the class, up to the amount they are comfortable with. 
 
 
-
-[Apply for the T-Group]({{page.application-link}}){: .btn .btn--success .btn--x-large }
+[Join the wait list](mailto:{{page.info-email}}){: .btn .btn--success .btn--large }
 {: .text-center}
 
 {% endcapture %}
@@ -140,9 +139,9 @@ The practice you get during this course in building trusted relationships can be
 
 
 
-[Apply for the T-Group]({{page.application-link}}){: .btn .btn--success .btn--large }
+[Join the wait list](mailto:{{page.info-email}}){: .btn .btn--success .btn--large }
 {: .text-center}
 
 ## Contact Us
 
-Happy to connect. Bo: [songbo.sunny@gmail.com](mailto:songbo.sunny@gmail.com)
+[info@onenesstgroup.com](mailto:{{page.info-email}})
