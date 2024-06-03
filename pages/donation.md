@@ -6,7 +6,7 @@ title: "Donation"
 
 Oneness Personal Development is supported and fiscally sponsored by [Community Builder Toolbox, Inc.](https://cb-t.org/), a California registered nonprofit recognized by United States IRS as 501(c)(3) public charity[^1].
 
-The donation is tax-deductable. Your employer may be able to match your donation to amplify your impact.
+The donation is tax-deductable. Your employer may be able to match your donation to amplify the impact.
 
 Following is detailed info in Benevity, YourCause, etc. 
 
@@ -18,5 +18,13 @@ Following is detailed info in Benevity, YourCause, etc.
     Important Note: Please leave a note, "Donation to Oneness T-Group" in the system. Otherwise we may not be able to retrieve the donation.
 
 Your donation will be used to cover the event cost (facilitator pay & training, venue renting, course materials, etc), and will also encourages us to bring the T-Group experience to more people, in the current [Dana](https://en.wikipedia.org/wiki/D%C4%81na) fasion we believe in. 
+
+
+We also accept donation via venmo. 
+
+Vemno usrename: *[t-group@](https://account.venmo.com/u/t-group)*  (To maximize your donation impact, please do NOT select "turn on for purchases")
+
+![image-center](/assets/images/venmo.jpg){: .align-center style="width: 50%;"}
+
 
 [^1]: [W-9 form](https://www.cb-t.org/files/2019-W9.pdf) and [501c3 status letter](https://www.cb-t.org/files/501c3-letter-2019.pdf)
