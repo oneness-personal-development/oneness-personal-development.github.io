@@ -17,19 +17,20 @@ header:
       url: "#upcoming-events"
 members_gallery:
   - image_path: /assets/images/bo.jpg
-    title: "Bo, Founder & Facilitator"
+    title: "Bo<br/>Founder & Facilitator"
     excerpt: "Bo enjoys connection. He believes connection gives purpose and meaning to our lives. He also believes, and has demonstrated, that twelve individuals in a T-Group can ultimately connect as one."
 
   - image_path: /assets/images/andrew.jpg
-    title: "Andrew, Founder & Facilitator"
-    excerpt: "Andrew is a meditator, former startup operator, and recovering “highly logical person” who is on a journey to connect with his feelings, intuition, and most authentic self. There’s nothing he loves more than bringing people together and creating a sense of belonging. As a T-group facilitator, he aspires to guide participants in discovering and communicating their needs and boundaries, expressing themselves more freely and authentically, and letting the practice of becoming more closely attuned to ourselves become the foundation for true connection and belonging."
+    title: "Andrew<br/>Founder & Facilitator"
+    excerpt: "Andrew, a meditator and former startup operator, is on a journey to connect with his feelings, intuition, and authentic self. He loves bringing people together and creating a sense of belonging. As a T-group facilitator, he guides participants in discovering their needs and boundaries, expressing themselves authentically, and fostering true connection."
 
   - image_path: /assets/images/emma.jpg
-    title: "Emma, Facilitator"
+    title: "Emma<br/>Facilitator"
     excerpt: "Emma likes telling stories, spending time with friends, and having new adventures. She learns to care and nourish her inner child with gentleness, which allows more creativity and ability to hold space for growth both for herself and for others around her. "
 
-  - image_path: 
-    title: "Emily, Facilitator"
+  - image_path: /assets/images/emily.jpg
+    title: "Emily<br/>Facilitator"
+    excerpt: "Emily is a life long learner. She has been on self improvement  journey for almost 10 years . She loves to connect with people, hold each other’s hands on hands and grow together. "
 
 space_gallery:
   - image_path: /assets/images/space.jpg
