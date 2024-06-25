@@ -41,7 +41,7 @@ event_gallery:
     alt: "event photos"
   - image_path: /assets/images/event-1.jpg
     alt: "event photos"
-application-link: https://www.eventbrite.com/e/oneness-t-group-san-francisco-20246-registration-920182459507?aff=oddtdtcreator
+application-link: https://www.eventbrite.com/e/oneness-t-group-cupertino-20247-registration-932906768257?aff=oddtdtcreator
 info-email: info@onenesstgroup.com
 ---
 
@@ -64,14 +64,12 @@ The practice you get during this course in building trusted relationships can be
 
 **Schedule:** 
 
-- 2024.6.22 SAT 9AM - 8PM
-- 2024.6.23 SUN 9AM - 6PM 
+- 2024.7.20 SAT 9AM - 7PM
+- 2024.7.21 SUN 9AM - 6PM 
 
 **Location:**  
 
-- In a private house in **Castro, San Francisco.**
-![image-center](/assets/images/space.jpg){: .align-center style="width: 50%;"}
-  
+- In a private house in **Cupertino, South Bay.**  
 
 **Capacity:** 
 - 12 students + 2 facilitators
@@ -80,7 +78,11 @@ The practice you get during this course in building trusted relationships can be
 
 - You must be able to communicate effectively in **Mandarin**. T-Group会以中文进行。参与者需要能以普通话交流。
 
-- You must be able to attend the full two-day session. This is to maximize learning for you, and to minimize distraction for others.
+- You must be able to attend the full two-day session.
+
+- There will be a gentle dog in the house, please evaluate if you are comfortable with it.
+
+- Couples can share a T-Group if they really want to. However please discuss it with the event organizer ahead of time to be informed about some key points. 
 
 **Deposit:** 
 

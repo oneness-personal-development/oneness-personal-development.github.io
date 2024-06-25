@@ -57,3 +57,8 @@ TODOs:
 </form>
 </div>
 </div>
+
+
+### Venmo link
+
+- A $200 deposit is needed to secure your spot. (Vemno to *[t-group@](https://account.venmo.com/u/t-group)* [QR code](/assets/images/venmo.jpg) )
