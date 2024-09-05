@@ -7,7 +7,7 @@ title: "Oneness T-Group"
 date: "2024-4-1"
 permalink: /
 tagline: "Connection, love and belonging"
-description: "A mandarin T-Group NPO proudly serving the San Francisco, Bay Area."
+description: "A T-Group NPO proudly serving the San Francisco, Bay Area."
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -41,7 +41,7 @@ event_gallery:
     alt: "event photos"
   - image_path: /assets/images/event-1.jpg
     alt: "event photos"
-application-link: https://www.eventbrite.com/e/oneness-t-group-cupertino-20247-registration-932906768257?aff=oddtdtcreator
+application-link: https://www.eventbrite.com/e/oneness-t-groupsan-francisco-2024921-22-registration-1002622660367?aff=oddtdtcreator
 info-email: info@onenesstgroup.com
 ---
 
@@ -64,29 +64,31 @@ The practice you get during this course in building trusted relationships can be
 
 **Schedule:** 
 
-TBD 
+- 2024.9.21 9AM - 2024.9.22 6PM
 
 **Location:**  
 
-TBD
+- San Francisco 
 
 **Capacity:** 
+
 - 12 students + 2 facilitators
 
 **Eligibility to participate**:
 
-- You must be able to communicate effectively in **Mandarin**. T-Group会以中文进行。参与者需要能以普通话交流。
+- You must be able to communicate effectively in **English**.
 
 - You must be able to attend the full two-day session.
 
-- There will be a gentle dog in the house, please evaluate if you are comfortable with it.
-
-- Couples can share a T-Group if they really want to. However please discuss it with the event organizer ahead of time to be informed about some key points. 
+- Couples can share a T-Group if they really want to. However please discuss it with the facilitators ahead of time to be informed about some caveats. 
 
 **Deposit:** 
 
 - $250 deposit will be charged at registration. The deposit will be refunded to participants who complete the whole session. 
 - Participants are welcomed to [donate to Oneness](./pages/donation.html) after the session, up to the amount they are comfortable with. 
+
+[Registration]({{page.application-link}}){: .btn .btn--success .btn--large }
+{: .text-center}
 
 <div id="mc_embed_shell">
 <div id="mc_embed_signup">

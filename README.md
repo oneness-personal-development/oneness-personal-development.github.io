@@ -27,6 +27,9 @@ TODOs:
 [Join the wait list](mailto:{{page.info-email}}){: .btn .btn--success .btn--large }
 {: .text-center}
 
+[Registration]({{page.application-link}}){: .btn .btn--success .btn--large }
+{: .text-center}
+
 ### image, center
 
 ![image-center](/assets/images/space.jpg){: .align-center style="width: 50%;"}
