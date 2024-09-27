@@ -12,6 +12,12 @@ The server is at http://127.0.0.1:4000
 
 The site uses minimal-mistakes theme and is powered by Jekyll.
 
+Git commands for website update
+
+ git add .
+ git ci -m 'update website'
+ git push
+
 
 TODOs: 
 
@@ -60,8 +66,3 @@ TODOs:
 </form>
 </div>
 </div>
-
-
-### Venmo link
-
-- A $200 deposit is needed to secure your spot. (Vemno to *[t-group@](https://account.venmo.com/u/t-group)* [QR code](/assets/images/venmo.jpg) )

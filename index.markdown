@@ -41,7 +41,7 @@ event_gallery:
     alt: "event photos"
   - image_path: /assets/images/event-1.jpg
     alt: "event photos"
-application-link: https://www.eventbrite.com/e/oneness-t-groupsan-francisco-2024921-22-registration-1002622660367?aff=oddtdtcreator
+application-link: https://lu.ma/324666r0
 info-email: info@onenesstgroup.com
 ---
 
@@ -64,30 +64,32 @@ The practice you get during this course in building trusted relationships can be
 
 **Schedule:** 
 
-- 2024.9.21 9AM - 2024.9.22 6PM
+- 2024.10.12 SAT 9AM - 7PM 中文场
 
 **Location:**  
 
-- San Francisco 
+- Los Gatos
 
 **Capacity:** 
 
-- 12 students + 2 facilitators
+- 10 students + 2 facilitators
 
 **Eligibility to participate**:
 
-- You must be able to communicate effectively in **English**.
+- You must be able to communicate effectively in **Mandarin**. 
 
-- You must be able to attend the full two-day session.
+- You must be able to attend the full one-day session.
 
-- Couples can share a T-Group if they really want to. However please discuss it with the facilitators ahead of time to be informed about some caveats. 
+- Pets are not allowed.
+
+- There will be a dog at the venue. Participants must be comfortable with dog.
 
 **Deposit:** 
 
-- $250 deposit will be charged at registration. The deposit will be refunded to participants who complete the whole session. 
+- $150 deposit will be collected at registration. The deposit will be refunded to participants who complete the whole session. 
 - Participants are welcomed to [donate to Oneness](./pages/donation.html) after the session, up to the amount they are comfortable with. 
 
-[Registration]({{page.application-link}}){: .btn .btn--success .btn--large }
+[中文T-Group注册链接]({{page.application-link}}){: .btn .btn--success .btn--large }
 {: .text-center}
 
 <div id="mc_embed_shell">
