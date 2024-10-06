@@ -50,7 +50,7 @@ info-email: info@onenesstgroup.com
 
 T-group[^1] is an experiential and effective way of learning about yourself and others. You will get an opportunity to increase your awareness of your feelings, perceptions, needs and behaviors.
 
-During the session, you will receive a little bit of conceptual content and a lot of immersive practice that will help you horn your interpersonal communication skills. 
+During the session, you will receive a little bit of conceptual content and a lot of immersive practice that will help you hore your interpersonal communication skills. 
 
 The practice you get during this course in building trusted relationships can be applied with friends and family and at work.
 
