@@ -64,15 +64,15 @@ The practice you get during this course in building trusted relationships can be
 
 **Schedule:** 
 
-- 2024.10.12 SAT 9AM - 7PM 中文场
+- TBD
 
 **Location:**  
 
-- Los Gatos
+- TBD
 
 **Capacity:** 
 
-- 10 students + 2 facilitators
+- TBD
 
 **Eligibility to participate**:
 
@@ -82,15 +82,10 @@ The practice you get during this course in building trusted relationships can be
 
 - Pets are not allowed.
 
-- There will be a dog at the venue. Participants must be comfortable with dog.
-
 **Deposit:** 
 
-- $150 deposit will be collected at registration. The deposit will be refunded to participants who complete the whole session. 
+- A deposit will be collected at registration. The deposit will be refunded to participants who complete the whole session. 
 - Participants are welcomed to [donate to Oneness](./pages/donation.html) after the session, up to the amount they are comfortable with. 
-
-[中文T-Group注册链接]({{page.application-link}}){: .btn .btn--success .btn--large }
-{: .text-center}
 
 <div id="mc_embed_shell">
 <div id="mc_embed_signup">
