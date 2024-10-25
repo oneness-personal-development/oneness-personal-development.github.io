@@ -1,5 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: splash
@@ -64,28 +63,19 @@ The practice you get during this course in building trusted relationships can be
 
 **Schedule:** 
 
-- TBD
+- Nov. 24, 2024 9AM - 7PM
 
 **Location:**  
 
-- TBD
+- San Jose, California. 
 
 **Capacity:** 
 
-- TBD
+- 10
 
 **Eligibility to participate**:
 
-- You must be able to communicate effectively in **Mandarin**. 
-
-- You must be able to attend the full one-day session.
-
-- Pets are not allowed.
-
-**Deposit:** 
-
-- A deposit will be collected at registration. The deposit will be refunded to participants who complete the whole session. 
-- Participants are welcomed to [donate to Oneness](./pages/donation.html) after the session, up to the amount they are comfortable with. 
+- Invitations are sent to participants.  
 
 <div id="mc_embed_shell">
 <div id="mc_embed_signup">
