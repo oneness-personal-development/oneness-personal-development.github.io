@@ -40,7 +40,7 @@ event_gallery:
     alt: "event photos"
   - image_path: /assets/images/event-1.jpg
     alt: "event photos"
-application-link: https://lu.ma/324666r0
+application-link: https://lu.ma/npqsah2o
 info-email: info@onenesstgroup.com
 ---
 
@@ -63,19 +63,29 @@ The practice you get during this course in building trusted relationships can be
 
 **Schedule:** 
 
-- Nov. 24, 2024 9AM - 7PM
+- Nov. 10, 2024 9AM - 6PM
 
 **Location:**  
 
-- San Jose, California. 
+- San Francisco, California. 
 
 **Capacity:** 
 
-- 10
+- Each session will have around 10 students + 2 facilitators
 
 **Eligibility to participate**:
 
-- Invitations are sent to participants.  
+- You must be able to communicate effectively in **English**. 
+
+- You must be able to attend the full one-day session.
+
+- Pets are not allowed.
+
+- A deposit will be collected at registration. The deposit will be refunded to participants who complete the whole session. 
+
+[Registration]({{page.application-link}}){: .btn .btn--success .btn--large }
+{: .text-center}
+
 
 <div id="mc_embed_shell">
 <div id="mc_embed_signup">
