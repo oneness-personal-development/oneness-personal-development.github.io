@@ -63,28 +63,11 @@ The practice you get during this course in building trusted relationships can be
 
 **Schedule:** 
 
-- Nov. 10, 2024 9AM - 6PM
+- Nov. 24, 2024
 
 **Location:**  
 
-- San Francisco, California. 
-
-**Capacity:** 
-
-- Each session will have around 10 students + 2 facilitators
-
-**Eligibility to participate**:
-
-- You must be able to communicate effectively in **English**. 
-
-- You must be able to attend the full one-day session.
-
-- Pets are not allowed.
-
-- A deposit will be collected at registration. The deposit will be refunded to participants who complete the whole session. 
-
-[Registration]({{page.application-link}}){: .btn .btn--success .btn--large }
-{: .text-center}
+- A private event. Invitations has extended to participants.
 
 
 <div id="mc_embed_shell">

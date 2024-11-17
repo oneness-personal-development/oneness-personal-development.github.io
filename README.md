@@ -66,3 +66,21 @@ TODOs:
 </form>
 </div>
 </div>
+
+
+**Capacity:** 
+
+- Each session will have around 10 students + 2 facilitators
+
+**Eligibility to participate**:
+
+- You must be able to communicate effectively in **English**. 
+
+- You must be able to attend the full one-day session.
+
+- Pets are not allowed.
+
+- A deposit will be collected at registration. The deposit will be refunded to participants who complete the whole session. 
+
+[Registration]({{page.application-link}}){: .btn .btn--success .btn--large }
+{: .text-center}
