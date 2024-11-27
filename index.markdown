@@ -55,6 +55,14 @@ The practice you get during this course in building trusted relationships can be
 
 [^1]: T means training. [READ MORE about T-Group](./assets/files/power-of-t-group.pdf)
 
+## What we believe
+
+At Oneness, we hold a profound belief that the fundamental needs of all human beings are universal: Connection, Love, and Belonging. We also believe that every individual is born to be resourceful, creative and whole.
+
+Guided by these believes, the vision of Oneness is to foster a profound connection among all individuals—uniting us as one, even if we seem like isolated islands on the surface of life’s vast ocean.
+
+Our mission is to nurture people, awakening their innate potential to grow and thrive. At Oneness, we are committed to empowering individuals to rediscover their true nature and embrace their limitless possibilities.
+
 
 ## Upcoming Events
 
