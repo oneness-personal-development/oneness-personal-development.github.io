@@ -71,8 +71,8 @@ Our mission is to nurture people, awaken their innate potential to grow and thri
 
 **Schedule:** 
 
-- Please join the email list for futher events.
-
+- 11.30.2024 Saturday, 706, Shanghai China
+- 12.4.2024 CYC链岛, Dali, Yunnan, China
 
 <div id="mc_embed_shell">
 <div id="mc_embed_signup">
