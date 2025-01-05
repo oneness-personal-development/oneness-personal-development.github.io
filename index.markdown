@@ -71,12 +71,12 @@ Our mission is to nurture people, awaken their innate potential to grow and thri
 
 **Schedule:** 
 
-- TBD
+- We host T-Group monthly. New sessions will be posted here when they are open for registration. The best way to get notified is to join the newsletter.
 
 <div id="mc_embed_shell">
 <div id="mc_embed_signup">
     <form action="https://onenesstgroup.us22.list-manage.com/subscribe/post?u=d9e33f29e17ac2d838337606f&amp;id=9ccce379ac&amp;f_id=0050c5e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self" novalidate="">
-        <div id="mc_embed_signup_scroll"><h2>Joining the mailing list.</h2>
+        <div id="mc_embed_signup_scroll"><h2>Join the newsletter</h2>
             <div class="mc-field-group"><label for="mce-EMAIL">Email Address</label><input type="email" name="EMAIL" class="email" id="mce-EMAIL" required="" value=""></div>
 <div hidden=""><input type="hidden" name="tags" value="4921"></div>
         <div id="mce-responses" class="clear foot">
