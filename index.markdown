@@ -68,10 +68,17 @@ Our mission is to nurture people, awaken their innate potential to grow and thri
 
 {% capture notice-2 %}
 
+<iframe
+  src="https://lu.ma/embed/calendar/cal-7DLNveHrGoMqMPg/events"
+  width="100%"
+  height="350"
+  frameborder="0"
+  style="border: 1px solid #bfcbda88; border-radius: 4px; display: block; max-height: 350px; overflow: hidden;"
+  allowfullscreen=""
+  aria-hidden="false"
+  tabindex="0"
+></iframe>
 
-**Schedule:** 
-
-- We host T-Group monthly. New sessions will be posted here when they are open for registration. The best way to get notified is to join the newsletter.
 
 <div id="mc_embed_shell">
 <div id="mc_embed_signup">
