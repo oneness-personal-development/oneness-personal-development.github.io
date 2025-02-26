@@ -12,7 +12,8 @@ Your support is vital for the Oneness T-Group, a community dedicated to making t
 Oneness Personal Development is supported and fiscally sponsored by [Community Builder Toolbox, Inc.](https://cb-t.org/), a California registered nonprofit recognized by United States IRS as 501(c)(3) public charity[^1]. Your employer may be able to match your donation to amplify its impact.
 
 - Google: [go/give-oneness](https://go/give-oneness)
-- Microsoft [aka.ms/give-oneness](https://aka.ms/give-oneness)
+- Microsoft: [aka.ms/give-oneness](https://aka.ms/give-oneness)
+- Apple: [benvityapp.page.link](https://benevityapp.page.link/zJJstbuCBiMBRNPb9)
 
 For other companies, please use the following info in Benevity, YourCause, etc, to search for the cause. 
 
