@@ -4,7 +4,7 @@ title: "Donation"
 ---
 ## Donation
 
-Your support is vital for the Oneness T-Group, a community dedicated to making the world a more connected place. Each donation not only sustains our daily operations but also fuels our mission to unite and connect people from all walks of life. 
+Your support is vital for the Oneness, a community dedicated to making the world a more connected place. Each donation not only sustains our daily operations but also fuels our mission to unite and connect people from all walks of life. 
 
 <givebutter-widget id="gKAVDj"></givebutter-widget>
 
