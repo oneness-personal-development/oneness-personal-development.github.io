@@ -6,10 +6,20 @@ title: "Donation"
 
 Your support is vital for the Oneness, a community dedicated to making the world a more connected place. Each donation not only sustains our daily operations but also fuels our mission to unite and connect people from all walks of life. 
 
+Oneness Personal Development is supported and fiscally sponsored by [Community Builder Toolbox, Inc.](https://cb-t.org/), a California registered nonprofit recognized by United States IRS as 501(c)(3) public charity[^1].
+
+### Donate via Venmo - no processing fee
+
+[@bo-song-sunny](https://account.venmo.com/u/bo-song-sunny)
+
+### Donate by Credit Card - with processing fee
+
 <givebutter-widget id="gKAVDj"></givebutter-widget>
 
 
-Oneness Personal Development is supported and fiscally sponsored by [Community Builder Toolbox, Inc.](https://cb-t.org/), a California registered nonprofit recognized by United States IRS as 501(c)(3) public charity[^1]. Your employer may be able to match your donation to amplify its impact.
+### Donate via company matching
+
+Your employer may be able to match your donation to amplify its impact.
 
 - Google: [go/give-oneness](https://go/give-oneness)
 - Microsoft: [aka.ms/give-oneness](https://aka.ms/give-oneness)
