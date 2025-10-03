@@ -25,11 +25,11 @@ members_gallery:
 
   - image_path: /assets/images/seraphina.jpg
     title: "Seraphina<br/>Facilitator"
-    excerpt: "Emma likes telling stories, spending time with friends, and having new adventures. She learns to care and nourish her inner child with gentleness, which allows more creativity and ability to hold space for growth both for herself and for others around her. "
-
+    excerpt: "Seraphina believes that true growth happens in an environment where people feel safe enough to be imperfect. She is fascinated by exploring the \"here-and-now\" experience and is dedicated to creating a space of trust and acceptance, allowing every participant to bravely explore their inner world and discover a deeper self through authentic communication."
+    
   - image_path: /assets/images/emma.jpg
     title: "Emma<br/>Facilitator"
-    excerpt: "Seraphina believes that true growth happens in an environment where people feel safe enough to be imperfect. She is fascinated by exploring the \"here-and-now\" experience and is dedicated to creating a space of trust and acceptance, allowing every participant to bravely explore their inner world and discover a deeper self through authentic communication."
+    excerpt: "Emma likes telling stories, spending time with friends, and having new adventures. She learns to care and nourish her inner child with gentleness, which allows more creativity and ability to hold space for growth both for herself and for others around her. "
 
   - image_path: /assets/images/emily.jpg
     title: "Emily<br/>Facilitator"
