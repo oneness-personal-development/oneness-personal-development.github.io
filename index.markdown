@@ -27,14 +27,6 @@ members_gallery:
     title: "Seraphina<br/>Facilitator"
     excerpt: "Emma likes telling stories, spending time with friends, and having new adventures. She learns to care and nourish her inner child with gentleness, which allows more creativity and ability to hold space for growth both for herself and for others around her. "
 
-  - image_path: /assets/images/emma.jpg
-    title: "Emma<br/>Facilitator"
-    excerpt: "Seraphina believes that true growth happens in an environment where people feel safe enough to be imperfect. She is fascinated by exploring the \"here-and-now\" experience and is dedicated to creating a space of trust and acceptance, allowing every participant to bravely explore their inner world and discover a deeper self through authentic communication."
-
-  - image_path: /assets/images/emily.jpg
-    title: "Emily<br/>Facilitator"
-    excerpt: "Emily is a life long learner. She has been on self improvement  journey for almost 10 years . She loves to connect with people, hold each other’s hands on hands and grow together. "
-
 space_gallery:
   - image_path: /assets/images/space.jpg
     alt: "event space"
@@ -136,7 +128,7 @@ Our mission is to nurture people, awaken their innate potential to grow and thri
 <div id="mc_embed_shell">
 <div id="mc_embed_signup">
     <form action="https://onenesstgroup.us22.list-manage.com/subscribe/post?u=d9e33f29e17ac2d838337606f&amp;id=9ccce379ac&amp;f_id=0050c5e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self" novalidate="">
-        <div id="mc_embed_signup_scroll"><h2>Joining the mailing list.</h2>
+        <div id="mc_embed_signup_scroll"><h2>Join the newsletter</h2>
             <div class="mc-field-group"><label for="mce-EMAIL">Email Address</label><input type="email" name="EMAIL" class="email" id="mce-EMAIL" required="" value=""></div>
 <div hidden=""><input type="hidden" name="tags" value="4921"></div>
         <div id="mce-responses" class="clear foot">

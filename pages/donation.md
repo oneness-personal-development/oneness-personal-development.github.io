@@ -8,11 +8,8 @@ Your support is vital for the Oneness, a community dedicated to making the world
 
 Oneness Personal Development is supported and fiscally sponsored by [Community Builder Toolbox, Inc.](https://cb-t.org/), a California registered nonprofit recognized by United States IRS as 501(c)(3) public charity[^1].
 
-### Donate via Venmo - no processing fee
 
-[@bo-song-sunny](https://account.venmo.com/u/bo-song-sunny)
-
-### Donate by Credit Card - with processing fee
+### Donation
 
 <givebutter-widget id="gKAVDj"></givebutter-widget>
 
