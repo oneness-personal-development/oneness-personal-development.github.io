@@ -20,7 +20,7 @@ Your employer may be able to match your donation to amplify its impact.
 
 - Google: [go/give-oneness](https://go/give-oneness)
 - Microsoft: [aka.ms/give-oneness](https://aka.ms/give-oneness)
-- Apple: [benvityapp.page.link](https://benevityapp.page.link/zJJstbuCBiMBRNPb9)
+- Apple: [benvityapp.page.link](https://benevity.go.link/5Qpkw)
 
 For other companies, please use the following info in Benevity, YourCause, etc, to search for the cause. 
 
