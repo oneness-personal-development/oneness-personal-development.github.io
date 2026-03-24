@@ -77,7 +77,7 @@ Our mission is to nurture people, awaken their innate potential to grow and thri
 
 <div id="mc_embed_shell">
 <div id="mc_embed_signup">
-    <form action="https://onenesstgroup.us22.list-manage.com/subscribe/post?u=d9e33f29e17ac2d838337606f&amp;id=9ccce379ac&amp;f_id=0050c5e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self" novalidate="">
+    <form action="https://onenesstgroup.us22.list-manage.com/subscribe/post?u=d9e33f29e17ac2d838337606f&amp;id=9ccce379ac&amp;f_id=0050c5e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate mc-bot-protected" target="_self" novalidate="">
         <div id="mc_embed_signup_scroll"><h2>Join the newsletter</h2>
             <div class="mc-field-group"><label for="mce-EMAIL">Email Address</label><input type="email" name="EMAIL" class="email" id="mce-EMAIL" required="" value=""></div>
 <div hidden=""><input type="hidden" name="tags" value="4921"></div>
@@ -89,6 +89,7 @@ Our mission is to nurture people, awaken their innate potential to grow and thri
         /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */
         <input type="text" name="b_d9e33f29e17ac2d838337606f_9ccce379ac" tabindex="-1" value="">
     </div>
+        <input type="hidden" class="mc-js-check" value="">
         <div class="optionalParent">
             <div class="clear foot">
                 <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="btn btn--danger" value="Subscribe">
@@ -126,7 +127,7 @@ Our mission is to nurture people, awaken their innate potential to grow and thri
 
 <div id="mc_embed_shell">
 <div id="mc_embed_signup">
-    <form action="https://onenesstgroup.us22.list-manage.com/subscribe/post?u=d9e33f29e17ac2d838337606f&amp;id=9ccce379ac&amp;f_id=0050c5e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self" novalidate="">
+    <form action="https://onenesstgroup.us22.list-manage.com/subscribe/post?u=d9e33f29e17ac2d838337606f&amp;id=9ccce379ac&amp;f_id=0050c5e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate mc-bot-protected" target="_self" novalidate="">
         <div id="mc_embed_signup_scroll"><h2>Join the newsletter</h2>
             <div class="mc-field-group"><label for="mce-EMAIL">Email Address</label><input type="email" name="EMAIL" class="email" id="mce-EMAIL" required="" value=""></div>
 <div hidden=""><input type="hidden" name="tags" value="4921"></div>
@@ -138,6 +139,7 @@ Our mission is to nurture people, awaken their innate potential to grow and thri
         /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */
         <input type="text" name="b_d9e33f29e17ac2d838337606f_9ccce379ac" tabindex="-1" value="">
     </div>
+        <input type="hidden" class="mc-js-check" value="">
         <div class="optionalParent">
             <div class="clear foot">
                 <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="btn btn--danger" value="Subscribe">
@@ -151,3 +153,30 @@ Our mission is to nurture people, awaken their innate potential to grow and thri
 ## Contact Us
 
 [info@onenesstgroup.com](mailto:{{page.info-email}})
+
+<script>
+(function () {
+  var loadTime = Date.now();
+  var token = btoa('mc_' + (new Date().getMonth() + 1) + '_' + new Date().getDate());
+
+  document.querySelectorAll('form.mc-bot-protected').forEach(function (form) {
+    var jsField = form.querySelector('.mc-js-check');
+    if (jsField) jsField.value = token;
+
+    form.addEventListener('submit', function (e) {
+      var elapsed = (Date.now() - loadTime) / 1000;
+      var jsField = form.querySelector('.mc-js-check');
+
+      if (!jsField || jsField.value !== token) {
+        e.preventDefault();
+        return false;
+      }
+
+      if (elapsed < 3) {
+        e.preventDefault();
+        return false;
+      }
+    });
+  });
+})();
+</script>
