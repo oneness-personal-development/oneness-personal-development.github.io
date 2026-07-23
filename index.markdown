@@ -21,7 +21,7 @@ members_gallery:
 
   - image_path: /assets/images/andrew.jpg
     title: "Andrew<br/>Founder & Facilitator"
-    excerpt: "Andrew, a meditator and former startup operator, is on a journey to connect with his feelings, intuition, and authentic self. He loves bringing people together and creating a sense of belonging. As a T-group facilitator, he guides participants in discovering their needs and boundaries, expressing themselves authentically, and fostering true connection."
+    excerpt: "Andrew is a former management consultant, startup operator, and entrepreneur unlearning the belief that we must “solve,” “grow,” and “control” in order to earn joy, connection, and belonging. As a T-group facilitator, he invites you to join him in a laboratory for the non-contingent enoughness of our being. He sees this as the foundation for unconditional love and true belonging: exploring what happens when we are brave enough to stay intimate with the truth of our present moment experience, and give others the permission to do the same."
 
   - image_path: /assets/images/seraphina.jpg
     title: "Seraphina<br/>Facilitator"
