@@ -26,7 +26,12 @@ members_gallery:
   - image_path: /assets/images/seraphina.jpg
     title: "Seraphina<br/>Facilitator"
     excerpt: "Seraphina believes that true growth happens in an environment where people feel safe enough to be imperfect. She is fascinated by exploring the \"here-and-now\" experience and is dedicated to creating a space of trust and acceptance, allowing every participant to bravely explore their inner world and discover a deeper self through authentic communication."
-    
+  - image_path: /assets/images/ying.jpg
+    title: "Ying<br/>Facilitator"
+    excerpt: "Ying views facilitation as holding space for lived experience. She recognizes that \"knowing\" remains in the head; true understanding comes only through felt experience and continuous practice.
+        We don't meet in T-Group to \"fix\" or transform ourselves into something else. We come together to slow down, listen deeply, and feel what is unfolding beneath the surface. In this space of mutual support, 
+        we practice truly living in the moment."
+
 space_gallery:
   - image_path: /assets/images/space.jpg
     alt: "event space"
