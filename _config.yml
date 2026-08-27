@@ -33,7 +33,7 @@ layout: single
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
-logo: "/assets/images/logo.png"
+logo: "/assets/images/logo.jpg"
 
 minimal_mistakes_skin: "air"
 
