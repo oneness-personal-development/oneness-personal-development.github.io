@@ -28,7 +28,6 @@ For other companies, please use the following info in Benevity, YourCause, etc, 
     Address: 1111 W El Camino Real, STE133x178, Attn Z ZHOU CBT
     Email: zzn@cb-t.org 
     EIN: 81-4638175 
-    Phone number: 877-829-5500
     Important Note: Please leave a note, "Donation to Oneness T-Group" in the system. Otherwise we may not be able to retrieve the donation.
 
 
